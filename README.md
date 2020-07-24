@@ -1,4 +1,6 @@
 # Overview
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FJekotia%2Frelm.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FJekotia%2Frelm?ref=badge_shield)
+
 
 The creation of this application was inspired by the loss of sibbell.com
 
@@ -98,3 +100,7 @@ Release checking is intended to be run at regular intervals utilising a schedule
 ### Mozilla
 
 `python3 relm.py mozilla`
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FJekotia%2Frelm.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FJekotia%2Frelm?ref=badge_large)
